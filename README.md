@@ -2,18 +2,11 @@
 
 [![Social banner for Stovencrantz](https://github.com/Stovencrantz/Stovencrantz/blob/main/assets/gitBanner.png)](https://stovencrantz.github.io/react-portfolio/)
 
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Howdy, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align='center'>
 I'm Steve.
 </p>
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
-
-<h1 align='center'><i>Make cool stuff!</i></h1>
-
-### Hi there 👋
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h2 align='center'><i>Make cool stuff!</i></h2>
 
 <!--
 **Stovencrantz/Stovencrantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
