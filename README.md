@@ -1,11 +1,14 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<!-- [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev) -->
+
+[![Social banner for Stovencrantz](https://github.com/Stovencrantz/Stovencrantz/blob/main/assets/gitBanner.png)](https://stovencrantz.github.io/react-portfolio/)
+
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Steve.
 </p>
 <p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>Make cool stuff!</i></h1>
 
 ### Hi there 👋
 
@@ -26,7 +29,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=dark)
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=radical)
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=merko)
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=gruvbox)
+-->
+## Github Stats:
+  <img width='50%' src="https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=tokyonight">
+<!--
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=onedark)
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=cobalt)
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=synthwave)
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=highcontrast)
+  ![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz&show_icons=true&theme=dracula)
+-->
 
-[![Stovencrantz's GitHub stats](https://github-readme-stats.vercel.app/api?username=stovencrantz)](https://github.com/stovencrantz/github-readme-stats)
+## Language Usage:
+<a href="https://github.com/stovencrantz/github-readme-stats">
+  <img width='50%' align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=stovencrantz&layout=compact&theme=tokyonight">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stovencrantz&layout=compact)](https://github.com/stovencrantz/github-readme-stats)
